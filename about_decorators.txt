@@ -1,0 +1,3 @@
+﻿Decorators are wrappers which give us opportunity to do something
+before and after the call of function which is decorated without changing
+that function
